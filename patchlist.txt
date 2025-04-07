@@ -1,0 +1,1 @@
+Client/Client.bat;https://github.com/Blassed/TalismanLauncherFiles/releases/download/v1.0/Client.bat;6448df3c22a97c2ac2020d03cf008b88
